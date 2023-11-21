@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 import StarRating from "./starRating";
 
 ReactDOM.render(
-  // <App />,
-  <StarRating maxRating={10} />,
-  document.getElementById("root")
+	// <App />,
+	<StarRating maxRating={10} />,
+	document.getElementById("root")
 );
